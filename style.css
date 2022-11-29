@@ -328,18 +328,18 @@ list-style-type: none;
         display: flex;
     }
     .uber-products-wraper {
-        background-image: url("img/driverpic.webp")
+        background-image: url("img/driverpic.webp");
     }
     .main-pic img {
         display: hide;
     }
     .uber-products {
         position: absolute;
-        top: 140px;
+        top: 10%;
         left: 20%;
         background-color: white;
         width: 550px;
-        height: 520px;
+        height: 500px;
     }
     .uber-products-highlights {
         padding: 40px 30px 30px 40px;
