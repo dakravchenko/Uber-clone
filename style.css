@@ -327,6 +327,37 @@ list-style-type: none;
     .hide {
         display: flex;
     }
+    .uber-products-wraper {
+        background-image: url("img/driverpic.webp")
+    }
+    .main-pic img {
+        display: hide;
+    }
+    .uber-products {
+        position: absolute;
+        top: 140px;
+        left: 20%;
+        background-color: white;
+        width: 550px;
+        height: 520px;
+    }
+    .uber-products-highlights {
+        padding: 40px 30px 30px 40px;
+    }
+    .uber-products-highlights h1 {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+    .uber-products-highlights p {
+        font-size: 17px;
+        margin-bottom: 30px;
+        color: #686868;
+    }
+    .flex-buttons {
+        display: flex;
+        justify-content: space-around;
+    }
+    
     .uber-business {
         margin-left: 20%;
     }
@@ -354,36 +385,4 @@ list-style-type: none;
     }
 
 
-}
-@media screen and (min-width: 1566px){
-.uber-products-wraper {
-    background-image: url("img/driverpic.webp")
-}
-.main-pic img {
-    display: hide;
-}
-.uber-products {
-    position: absolute;
-    top: 140px;
-    left: 20%;
-    background-color: white;
-    width: 550px;
-    height: 520px;
-}
-.uber-products-highlights {
-    padding: 40px 30px 30px 40px;
-}
-.uber-products-highlights h1 {
-    font-size: 50px;
-    margin-bottom: 30px;
-}
-.uber-products-highlights p {
-    font-size: 17px;
-    margin-bottom: 30px;
-    color: #686868;
-}
-.flex-buttons {
-    display: flex;
-    justify-content: space-around;
-}
 }
