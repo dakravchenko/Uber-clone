@@ -60,9 +60,6 @@ body, html {
     cursor: pointer;
  
 }
-.uber-products-wraper {
-   
-}
 .uber-products {
     background-color: aliceblue;
     
@@ -375,10 +372,11 @@ list-style-type: none;
     
     }
 
-    .dekstop-flex {
+    .desktop-flex {
         display: flex;
         
     }
+    */
     .footer ul {
         margin-right: 100px;
         margin-bottom: 100px;
