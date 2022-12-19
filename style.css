@@ -99,8 +99,8 @@ body, html {
     
 
 }
-.button-items:active {   /*property doesnt work*/
-    border-bottom: blach solid 2px;
+.button-items:active {  
+    border-bottom: black solid 2px;
 
 }
 .uber-products {
@@ -302,7 +302,7 @@ list-style-type: none;
         max-width: 350px;
         margin-right: 30px;
     }
-    .tablet-flex {
+    .footer-flex {
         display: flex;
     }
     .footer ul {
@@ -372,11 +372,6 @@ list-style-type: none;
     
     }
 
-    .desktop-flex {
-        display: flex;
-        
-    }
-    */
     .footer ul {
         margin-right: 100px;
         margin-bottom: 100px;
